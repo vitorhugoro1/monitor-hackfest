@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/monitor-hackfest.iml
+.idea/workspace.xml
+monitor-a/node_modules/
+monitor-a/package-lock.json
+monitor-a/package.json
+monitor-b/
+.env
