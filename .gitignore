@@ -8,3 +8,5 @@ monitor-a/package-lock.json
 monitor-a/package.json
 monitor-b/
 .env
+
+node_modules/
